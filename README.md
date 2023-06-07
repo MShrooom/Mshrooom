@@ -1,1 +1,2 @@
-[![](https://github.com/MShrooom/bubbletexts/blob/main/chat.svg]bansalmaanvi15@gmail.com 
+
+![alt text](https://github.com/MShrooom/bubbletexts/blob/1afc0185ffbea5819184d3b4dd89f5d685adbe31/chat.svg)
