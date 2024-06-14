@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I am From Delhi,India. </text>
-    <text x="15" y="50">It's 100° F (38° C) and <tspan class="emoji">☀ </tspan> today.</text>
+    <text x="15" y="50">It's 118.4° F (48° C) and <tspan class="emoji">☀ </tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -326,7 +326,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can connect with me through
+      Connect with me through
       <a xlink:href="bansalmaanvi15@gmail.com">bansalmaanvi15@gmail.com 
       </a>
     </text>
