@@ -31,10 +31,10 @@ maanvi-bansal-1517ban
         
         
 
-- 🍄I'm Currently learning  Game development, blender, Ruby.
+- 🍄I'm Currently learning solidity, smart contract development.
 
 
--  💬 Ask me about 3-D modelling, Arduino, git
+-  💬 Ask me about blockchain, crypto currency and energy trading
 
 
 
